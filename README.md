@@ -4,9 +4,9 @@
 
 👋🏽Hey there, My name is Abdur Rahmaan!
 
-🎓I’m a 1st year Computer Science student at Navrachana University.
+🎓I’m a 3rd year Computer Science student at Navrachana University.
 
-💻I’m a beginner in programming and an aspirant to become a better programmer every day.
+💻I’m a novice in programming and an aspirant to become a better programmer every day.
 
 📱I’m interested in learning new technological skills to add value to the world.
 
