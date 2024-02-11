@@ -2,20 +2,17 @@
 
 # Hi there, Abdur Rahmaan here👋
 
-👋🏽Hey there, My name is Abdur Rahmaan!
+I’m a 3rd year Computer Science student at Navrachana University.
 
-🎓I’m a 3rd year Computer Science student at Navrachana University.
+Like to understand data, I use Python libraries such as Pandas, Matplotlib, Numpy to gain insights from it.
 
-💻I’m a novice in programming and an aspirant to become a better programmer every day.
+Currently learning DSA in C++, I keep knowledge about various OOPS concepts and Artifical Intelligence.
 
-📱I’m interested in learning new technological skills to add value to the world.
+I’m also Interested in Mathematics, Statistics and Sports like Cricket, Chess, Table Tennis and Carrom.
 
-🧮I’m also Interested in Mathematics, Statistics and Sports.
+Contact me at abdur.doctor@nuv.ac.in
 
-📞Contact me at abdur.doctor@nuv.ac.in
-
-📫 How to reach me: LinkedIn: https://www.linkedin.com/in/abdur-rahmaan-doctor-15a09r03d/
-
+How to reach me: LinkedIn: https://www.linkedin.com/in/abdur-rahmaan-doctor-15a09b03d/
 
 ## &#x1f4c8; My GitHub Stats
 
