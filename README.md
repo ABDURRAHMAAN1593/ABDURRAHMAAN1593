@@ -2,7 +2,7 @@
 
 # Hi there, Abdur Rahmaan here👋
 
-I’m a 34th year Computer Science student at Navrachana University.
+I’m a 4th year Computer Science student at Navrachana University.
 
 Like to understand data, I use Python libraries such as Pandas, Matplotlib, Numpy to gain insights from it.
 
