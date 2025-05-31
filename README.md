@@ -1,21 +1,60 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ABDURRAHMAAN1593&label=Profile%20views&color=brightgreen&style=plastic" alt="ABDURRAHMAAN1593" /> </p>
+<h1 align="center">Hey there 👋, I'm Abdur Rahmaan</h1>
 
-# Hi there, Abdur Rahmaan here👋
+<p align="center">
+  💻 Software Engineer specializing in Artificial Intelligence  
+</p>
 
-I’m a 4th year Computer Science student at Navrachana University.
+---
 
-Like to understand data, I use Python libraries such as Pandas, Matplotlib, Numpy to gain insights from it.
+### 👨‍💻 Who I Am
 
-Currently learning DSA in C++, I keep knowledge about various OOPS concepts and Artifical Intelligence.
+I'm a Computer Science Engineer from Navrachana University with a passion for solving real-world problems using intelligent systems.  
+My work lies at the intersection of technology and impact — building smart tools with AI, data, and creativity.
 
-I’m also Interested in Mathematics, Statistics and Sports like Cricket, Chess, Table Tennis and Carrom.
+---
 
-Contact me at abdur.doctor@nuv.ac.in
+### 🔍 Domains I Work In
 
-How to reach me: LinkedIn: https://www.linkedin.com/in/abdur-rahmaan-doctor-15a09b03d/
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧠 Generative AI & LLM Integration  
+- 📷 Computer Vision & Image-Based Intelligence  
+- 📊 Data Science & Applied Insights  
+- 🌐 Python Web Apps using Flask  
 
-## &#x1f4c8; My GitHub Stats
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDURRAHMAAN1593&hide=java,html,css&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 What's Next
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDURRAHMAAN1593&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 Exploring Open Source contributions in AI & CV  
+- 🧪 Experimenting with Flask-based AI app deployments  
+- 🤝 Open to collaborations, ideas, and cool side-projects  
+
+---
+
+### 💡 Fun Fact
+
+When I'm not coding, you’ll find me playing **Cricket**, dominating in **Table Tennis**, or strategizing over a good game of **Carrom**.
+
+> _“I don’t just build software. I build solutions that think.”_
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDURRAHMAAN1593&show_icons=true&theme=github_dark" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDURRAHMAAN1593&theme=github-dark" width="49%"/>
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+- 📧 Email: [arahmaan@icloud.com](mailto:arahmaan@icloud.com)
+- 💼 LinkedIn: [linkedin.com/in/abdur-rahmaan-doctor-15a09b03d](https://www.linkedin.com/in/abdur-rahmaan-doctor-15a09b03d/)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ABDURRAHMAAN1593&label=Profile%20views&color=brightgreen&style=plastic" alt="ABDURRAHMAAN1593" />
+</p>
